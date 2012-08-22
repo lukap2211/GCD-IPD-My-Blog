@@ -1,5 +1,6 @@
 <?php
-//database settings 
+//database settings
+ 
 //localhost
 //$host="localhost"; $db_username="root"; $db_password="root"; $database="my_blog";
 
